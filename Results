@@ -184,3 +184,5 @@ def main():
         ['aa', 'aa', 'aa', 'bb', 'bb'])
         
 main()
+
+#Ok mais pas optimisé
